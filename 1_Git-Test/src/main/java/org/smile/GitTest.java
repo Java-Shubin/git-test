@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("master write 1");
         System.out.println("hot-fix 1");
         System.out.println("github update 1");
+        System.out.println("IDEA master update push 1");
     }
 }
